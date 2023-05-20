@@ -1,4 +1,4 @@
-### Olá! Eu sou o Lucas 🧑‍💻
+## Olá! Eu sou o Lucas 🧑‍💻
 
 <p align="center">
   <img src="https://github.com/lcssathler/lcssathler/assets/115672410/b58467d0-495e-45e6-9d4a-1899c69aa990" alt="animated" />
