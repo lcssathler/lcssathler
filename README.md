@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Lucas 🧑‍💻
-![1642320423853](https://br.pinterest.com/pin/576812664782404872/)
+![𝐀𝐌𝐎𝐑, park sunghoon_](https://github.com/lcssathler/lcssathler/assets/115672410/a3aa0585-a61d-4a74-8708-4656725fe122)
 
 Desenvolvedor Back-End Java em constante aprendizado buscando pela minha primeira oportunidade de atuação na área de TI, voltado para o desenvolvimento de software.
 
