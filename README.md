@@ -1,21 +1,37 @@
-## Olá! Eu sou o Lucas 🧑‍💻
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=818274&height=120&section=header"/>
 
-<p align="center">
-  <img src="https://github.com/lcssathler/lcssathler/assets/115672410/b58467d0-495e-45e6-9d4a-1899c69aa990" alt="animated" />
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?color=506266&lines=🌎%20Hello%20World!...)](https://git.io/typing-svg)
+</br>
+
+<p>
+  <img src="https://github.com/lcssathler/lcssathler/assets/115672410/159f560e-d145-478e-8e23-589197a53a4d" alt="animated" />
 </p>
 
-Desenvolvedor Back-End Java em constante aprendizado buscando pela minha primeira oportunidade de atuação na área de TI, voltado para o desenvolvimento de software.
+## 🥷🏻 About me
+<p>- Beginner java developer looking for my first experience as software developer.</p>
+
+<p>- Hobbies</p>
+<ul>
+  <li><p>Watching anime</p></li>
+  <li><p>Play soccer</p></li>
+  <li><p>Watching anime</p></li>
+  <li><p>Enjoy good music on rainy days</p></li>
+</ul>
+</br>
 
 
- ### 🖥️ Tecnologias e Ferramentas 
+
+ ## 🖥️ Super Powers 
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+
 ##
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcssathler&layout=compact&theme=tokyonight" />
