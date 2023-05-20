@@ -1,4 +1,5 @@
 ### Olá! Eu sou o Lucas 🧑‍💻
+![1642320423853](https://br.pinterest.com/pin/576812664782404872/)
 
 Desenvolvedor Back-End Java em constante aprendizado buscando pela minha primeira oportunidade de atuação na área de TI, voltado para o desenvolvimento de software.
 
