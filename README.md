@@ -39,6 +39,11 @@
 <a href="https://github.com/anuraghazra/convoychat" margin-left="auto">
   <img width="50.3%" align="center" src="https://github-readme-stats.vercel.app/api?username=lcssathler&show_icons=true&theme=tokyonight" />
 </a>
+</br>
+<a href="https://github.com/lcssathler?tab=repositories" >
+  <img width="96%" border-radius="10px" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lcssathler&theme=react-dark" />
+</a>
+
 
 
 
