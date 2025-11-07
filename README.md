@@ -8,7 +8,7 @@
 </p>
 
 ## 🥷🏻 About me
-<p>- Beginner Java developer looking for my first experience as a software developer.</p>
+<p>- Java developer looking for my first experience as a software developer.</p>
 
 <p>- Hobbies</p>
 <ul>
